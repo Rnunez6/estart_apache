@@ -1,2 +1,2 @@
-# estart_apache
+# restart_apache
 a simple Bash script for reloading Apache vhost configs.
